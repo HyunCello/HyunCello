@@ -4,7 +4,7 @@ My name is YuHyun, I am student in Hanyang University, Ansan
 
 My Major is **Robotics**, and intrested in SLAM, Machine Learning, Embedded.
 
-[!YuHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunCello&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[[!YuHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunCello&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Languages
