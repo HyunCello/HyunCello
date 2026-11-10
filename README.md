@@ -1,35 +1,30 @@
-### Hi there 👋
+### YuHyun Kim · 김유현
 
-My name is YuHyun, I am student in Hanyang University, Ansan
+I lead the driving team at AeiROBOT. We build the autonomy stack for ALICE, our service robot.
 
-My Major is **Robotics**, and intrested in SLAM, Machine Learning, Embedded.
+I work on both sides of that stack: localization and planning on the robot, and the LLM, retrieval, and agent tooling the team builds against.
 
-[![YuHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunCello&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[English](README.md) · [한국어](README.ko.md)
 
+**AeiROBOT** · Team Lead, Driving Team · M.S., Hanyang University (ERICA)
 
-## Languages
+---
 
-![PYTHON](https://img.shields.io/badge/PYTHON-★%20★%20☆%20☆%20☆-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-★%20★%20☆%20☆%20☆-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-★%20★%20☆%20☆%20☆-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+### Now
 
-## Contacts
+- Autonomous navigation for ALICE — VO-based odometry, SLAM, and path planning on ROS 2
+- In-house LLM serving with vLLM — model routing, latency, and cost
+- Knowledge graph as agent memory — Neo4j + DuckDB, hybrid graph / keyword / vector retrieval (RRF)
+- Multi-agent workflows in the dev loop — issue, plan, PR, review
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremykim95@gmail.com)](mailto:jeremykim95@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy-kim-2b58551a6)](https://www.linkedin.com/in/jeremy-kim-2b58551a6)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.hyuncello.com/)](https://www.hyuncello.com/)
+### Scope
 
-<!--
-**HyunCello/HyunCello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Robot** — state estimation, planning, deployment for ALICE
+- **Tooling** — LLM serving, retrieval, agent orchestration
+- **Team** — planning, review, release
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](mailto:jeremykim95@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jeremy-kim-2b58551a6)
+
+<sub>C++ · Python · Go · ROS 2 · Nav2 · vLLM · Neo4j · Docker</sub>
