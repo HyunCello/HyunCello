@@ -6,7 +6,7 @@ I work on both sides of that stack: localization and planning on the robot, and 
 
 [English](README.md) · [한국어](README.ko.md)
 
-**AeiROBOT** · Team Lead, Driving Team · M.S., Hanyang University (ERICA)
+**AeiROBOT** · Team Lead, Driving Team · M.S. in Artificial Intelligence, Hanyang University (ERICA)
 
 ---
 
