@@ -1,6 +1,6 @@
 ### YuHyun Kim · 김유현
 
-I lead the driving team at AeiROBOT. We build the autonomy stack for ALICE, our service robot.
+I lead the driving team at AeiROBOT. We build the autonomy stack for ALICE, our humanoid robot.
 
 I work on both sides of that stack: localization and planning on the robot, and the LLM, retrieval, and agent tooling the team builds against.
 
